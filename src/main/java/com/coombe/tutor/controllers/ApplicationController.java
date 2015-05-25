@@ -21,4 +21,34 @@ public class ApplicationController {
 
         return "/views/index";
     }
+
+    @RequestMapping(value = {"/about"}, method = RequestMethod.GET)
+    public String about() {
+
+        logger.info("In about");
+
+        return "/views/about";
+    }
+
+    @RequestMapping(value = {"/introduction"}, method = RequestMethod.GET)
+    public String introduction() {
+
+        logger.info("In introduction");
+
+        return "/views/introduction";
+    }
+    @RequestMapping(value = {"/lessons"}, method = RequestMethod.GET)
+    public String lessons() {
+
+        logger.info("In lessons");
+
+        return "/views/lessons";
+    }
+    @RequestMapping(value = {"/videos"}, method = RequestMethod.GET)
+    public String videos() {
+
+        logger.info("In videos");
+
+        return "/views/videos";
+    }
 }
