@@ -51,4 +51,11 @@ public class ApplicationController {
 
         return "/views/videos";
     }
+    @RequestMapping(value = {"/course"}, method = RequestMethod.GET)
+    public String course() {
+
+        logger.info("In course");
+
+        return "/views/course";
+    }
 }
