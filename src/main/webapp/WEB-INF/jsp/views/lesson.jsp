@@ -7,43 +7,54 @@
 <h:nav/>
  <article>
         <div class="container">
+             <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                   <nav>
+                      <ul class="pager">
+                        <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Previous</a></li>
+                        <li class="next"><a href="#">Next <span aria-hidden="true">&rarr;</span></a></li>
+                      </ul>
+                   </nav>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+                    <h1 class="page-heading">Parts of the electric guitar</h2>
+                    <p><img class="img-responsive" src="/static/lessons/1/lespaulannotated.png" alt="Parts of the guitar"></p>
+                   <h3>Machine heads</h3>
+                    <p>The machine heads, otherwise known as tuning pegs, are used to tune the guitar by adjusting the
+tension of the strings. The tighter the string the higher the note.</p>
+                    <h3>Neck</h3>
+                    <p>The neck is attached to the body of the guitar and runs parallel to the strings. Pressing the
+  strings at different points on the neck allows you to change the note of a string by changing the
+  length that actually vibrates.</p>
+                    <h3>Nut</h3>
+                    <p>The nut marks one end of the section of the string that vibrates when you strike it. The
+  distance between the nut and the bridge is important. The relative distance between this and each
+  of the frets makes the guitar in tune all the way up the neck.</p>
+                    <h3>Frets</h3>
+                    <p>The frets divide the distance between the nut and the bridge following a specific mathematical
+  formula, so that pressing the string between frets makes as precise note&nbsp; as possible all the
+  way up the neck.</p>
+                    <h3>Bridge</h3>
+                    <p>The bridge marks the other end of the vibrating part of the strings. The bridge has small screws
+  which allow you to adjust the distance between it and the nut, making small changes to the
+  intonation of the guitar so that it is in tune all the way up the neck.</p>
+                    <h3>Pickups</h3>
+                    <p>The pickups convert the sound of the strings to an electronic signal which can be sent to an
+  amplifier. There will usually be one, two or three pickups. The ones nearer the neck will give a
+  mellow tone and the ones nearer the bridge will give a brighter tone.</p>
+                    <h3>Pickup Switch</h3>
+                    <p>The pickup switch allows you to change which pickup is sending the signal. Usually you can
+  choose either one pickup or two together.</p>
+                    <h3>Tone and Volume Pots</h3>
+                    <p>The tone pots adjust the amount of treble in the signal. The volume pots do the same for the
+  volume for each pickup.</p>
+                    <h3>Output Jack</h3>
+                    <p>The output jack is where you put the lead, which goes from the guitar to the amplifier,
+  sometimes with effects in between.</p></p>
 
-                    <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-                    <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-                    <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-                    <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-                    <h2 class="section-heading">The Final Frontier</h2>
-
-                    <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-                    <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-                    <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-                    <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-                    <h2 class="section-heading">Reaching for the Stars</h2>
-
-                    <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-                    <a href="#">
-                        <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
-                    </a>
-                    <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-                    <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-                    <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-                    <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
-                </div>
+  		        </div>
             </div>
         </div>
     </article>

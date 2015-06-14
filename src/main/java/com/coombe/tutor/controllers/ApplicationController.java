@@ -37,12 +37,12 @@ public class ApplicationController {
 
         return "/views/introduction";
     }
-    @RequestMapping(value = {"/lessons"}, method = RequestMethod.GET)
+    @RequestMapping(value = {"/lesson"}, method = RequestMethod.GET)
     public String lessons() {
 
-        logger.info("In lessons");
+        logger.info("In lesson");
 
-        return "/views/lessons";
+        return "/views/lesson";
     }
     @RequestMapping(value = {"/videos"}, method = RequestMethod.GET)
     public String videos() {
