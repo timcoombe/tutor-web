@@ -19,7 +19,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <h1 class="page-heading">Parts of the electric guitar</h2>
+                    <h1 class="page-heading">Parts of the electric guitar</h1>
                     <p><img class="img-responsive" src="/static/lessons/1/lespaulannotated.png" alt="Parts of the guitar"></p>
                    <h3>Machine heads</h3>
                     <p>The machine heads, otherwise known as tuning pegs, are used to tune the guitar by adjusting the
