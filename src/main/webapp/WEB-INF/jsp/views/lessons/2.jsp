@@ -34,34 +34,54 @@
                     <p>
                         Having said that, electronic tuners are great for live situations as no one wants to hear you tuning up between songs.
                     </p>
-                    <h3>Nut</h3>
-                    <p>The nut marks one end of the section of the string that vibrates when you strike it. The
-  distance between the nut and the bridge is important. The relative distance between this and each
-  of the frets makes the guitar in tune all the way up the neck.</p>
-                    <h3>Frets</h3>
-                    <p>The frets divide the distance between the nut and the bridge following a specific mathematical
-  formula, so that pressing the string between frets makes as precise note&nbsp; as possible all the
-  way up the neck.</p>
-                    <h3>Bridge</h3>
-                    <p>The bridge marks the other end of the vibrating part of the strings. The bridge has small screws
-  which allow you to adjust the distance between it and the nut, making small changes to the
-  intonation of the guitar so that it is in tune all the way up the neck.</p>
-                    <h3>Pickups</h3>
-                    <p>The pickups convert the sound of the strings to an electronic signal which can be sent to an
-  amplifier. There will usually be one, two or three pickups. The ones nearer the neck will give a
-  mellow tone and the ones nearer the bridge will give a brighter tone.</p>
-                    <h3>Pickup Switch</h3>
-                    <p>The pickup switch allows you to change which pickup is sending the signal. Usually you can
-  choose either one pickup or two together.</p>
-                    <h3>Tone and Volume Pots</h3>
-                    <p>The tone pots adjust the amount of treble in the signal. The volume pots do the same for the
-  volume for each pickup.</p>
-                    <h3>Output Jack</h3>
-                    <p>The output jack is where you put the lead, which goes from the guitar to the amplifier,
-  sometimes with effects in between.</p></p>
-                    <p><img class="img-responsive" src="/static/lessons/1/lespaulannotated.png" alt="Parts of the guitar"></p>
 
-  		        </div>
+                    <h3>From a keyboard</h3>
+                    <p>If you have a piano or other keyboard handy, you could tune your strings to the notes on the keyboard as shown below </p>
+                    <h3>Tuning fork</h3>
+
+                    <p>A tuning fork can be used to get one string in tune, after which you can use relative tuning to tune the rest of the strings. Holding the non-forked end of the tuning fork, bang it lightly against something hard. Don't do this against an expensive piece of furniture as you may mark it, the corner of an amplifier is good. If you then hold the fork up to your ear you will hear a note. You can then tune the appropriate open string to this note.</p>
+
+                    <p><strong>The most common tuning fork is A, which you can use to tune your fifth string. Be aware though, that this A is a couple of octaves higher than your open string.  If you try to tune your string up this high it will probably snap!</strong></p>
+
+                    <h3>Relative tuning</h3>
+
+                    <p>If you have the 6th String (E) in tune you can use this method to tune the rest of the strings.</p>
+
+                    <ol>
+                        <li>With one of the fingers on your left hand press down the 6th String just before the 5th fret as shown below. Play the 6th string and listen to the note it makes. If you now play the open 5th string (without pressing it down), it should make the same note. If it doesn't, adjust it with the tuning peg for that string until it sounds the same as the note on the 6th string.
+
+                            <br/><br/><img class="img-responsive" src="/static/lessons/2/tuning_up.png" alt="Tuning Up"/>
+                            <br/>
+                        </li>
+                        <li>
+                            Repeat the procedure above with the 5th(A) and 4th(D) strings.
+                        </li>
+                        <li>
+                            Same again with the 4th(D) and 3rd(G) strings.
+                        </li>
+                        <li>
+                            With the 3rd(G) to 2nd(B) strings use the 4th fret instead.
+                        </li>
+                        <li>
+                            With the 2nd(B) and 1st(E) strings you are back up to the 5th fret.
+                        </li>
+                    </ol>
+                    <p>Your guitar should now be roughly in tune. Bear in mind that this isn't easy at first and can take some practise to get right.</p>
+                    <h2>Guitar notation</h2>
+                    <p>There are two types of notation used to write music for the guitar. These are Standard notation, which is the common (Western) method used by all other instruments, and TAB.</p>
+                    <p>They both have their advantages and disadvantages. Standard notation is a more complete description of how the music should sound as it includes timing, but it takes longer to learn. TAB shows exactly where the note should be played on the guitar and is easier to understand, but doesn't give a complete picture of how the music should sound, as it leaves out the length of the notes.</p>
+                    <p>I have included both types of notation in this tutorial and would encourage you to learn Standard notation. If you ever take up classical guitar, or get asked to play in a musical or a session, you'll realise that it's time well spent. It means that you can pick up a piece of music and play it as the writer intended, even without ever having heard it before.</p>
+                    <h3>Standard notation</h3>
+                    <p>In Standard notation, notes are arranged on a five lined 'stave' like the one shown below.</p>
+                    <p><img class="img-responsive" src="/static/lessons/2/openstringsstave.png" alt="Open Strings Stave"/></p>
+                    <p>The strange symbol at the beginning is a treble clef and appears on all guitar music. Other instruments, like the bass guitar, use a different clef. The numbers 4/4 after the clef (called the Time Signature) tell you how many beats are in a bar, or how you should count when you read the music. The 4 at the top tells you there are 4 beats in a bar. We'll come back to the 4 at the bottom in a while.</p>
+                    <p>Each note played is represented by a circle either on one of the lines or between the lines. For instance the open 1st string (E) is between the top line and the line below. As the circles get lower on the stave they represent lower notes and as they get higher they represent higher notes.</p>
+                    <p>In standard notation the music is divided into bars by vertical lines. So in a 4/4 piece there is a vertical line after each four beats.</p>
+                    <h3>TAB</h3>
+                    <p>TAB is also written using parallel lines, but in this case there are six of them, each one representing a string on the guitar. The bottom line is the 6th (E) string and the top line is the 1st (E) string. The note to play is show by a number on the string which is the fret at which the string should be played. A zero means play the open string.</p>
+                    <p><img class="img-responsive" src="/static/lessons/2/openstringstab.png" alt="Open Strings Tab"/></p>
+                    <p>In both types of notation there is than described above, but this gives you the basic idea.</p>
+                </div>
             </div>
         </div>
     </article>
