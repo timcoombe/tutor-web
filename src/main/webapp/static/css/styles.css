@@ -69,3 +69,7 @@ article {
 .course {
     margin-top: 100px;
 }
+
+.img-responsive{
+    margin: auto;
+}
