@@ -7,16 +7,7 @@
 <h:nav/>
  <article>
         <div class="container">
-             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                   <nav>
-                      <ul class="pager">
-                        <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Previous</a></li>
-                        <li class="next"><a href="#">Next <span aria-hidden="true">&rarr;</span></a></li>
-                      </ul>
-                   </nav>
-                </div>
-            </div>
+            <h:lessonNav/>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <h1 class="page-heading">The Sixth String</h1>

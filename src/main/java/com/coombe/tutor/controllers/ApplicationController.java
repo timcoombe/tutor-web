@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class ApplicationController {
@@ -39,11 +40,14 @@ public class ApplicationController {
         return "/views/introduction";
     }
     @RequestMapping(value = {"/lesson/{lessonId}"}, method = RequestMethod.GET)
-    public String lessons(@PathVariable String lessonId) {
+    public ModelAndView lessons(@PathVariable String lessonId) {
 
         logger.info("In lesson");
 
-        return "/views/lessons/" + lessonId;
+        ModelAndView mav = new ModelAndView("/views/lessons/" + lessonId);
+        mav.addObject("lessonId", lessonId);
+
+        return mav;
     }
     @RequestMapping(value = {"/videos"}, method = RequestMethod.GET)
     public String videos() {
