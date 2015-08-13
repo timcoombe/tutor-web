@@ -7,5 +7,6 @@
 <h:nav/>
 
     ABOUT
+<h:footer/>
 </body>
 </html>

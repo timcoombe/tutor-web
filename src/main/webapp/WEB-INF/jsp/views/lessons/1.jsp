@@ -49,5 +49,6 @@ tension of the strings. The tighter the string the higher the note.</p>
             </div>
         </div>
     </article>
+<h:footer/>
 </body>
 </html>

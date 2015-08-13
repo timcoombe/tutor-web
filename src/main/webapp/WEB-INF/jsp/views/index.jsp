@@ -74,8 +74,8 @@
           </div>
           <hr class="featurette-divider">
 
-     <h:footer/>
     </div
 
+   <h:footer/>
 </body>
 </html>

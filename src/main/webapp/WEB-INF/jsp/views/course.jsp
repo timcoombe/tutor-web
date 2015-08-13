@@ -107,5 +107,6 @@
     	</div><!--/col-12-->
    </div>
  </div>
+<h:footer/>
 </body>
 </html>

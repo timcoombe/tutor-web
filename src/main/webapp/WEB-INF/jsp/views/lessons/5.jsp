@@ -27,5 +27,6 @@
             </div>
         </div>
     </article>
+<h:footer/>
 </body>
 </html>
