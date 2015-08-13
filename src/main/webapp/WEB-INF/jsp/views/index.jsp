@@ -76,6 +76,7 @@
 
     </div
 
+
    <h:footer/>
 </body>
 </html>
