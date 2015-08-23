@@ -19,6 +19,7 @@
                     <h3>G Major</h3>
                     <p>This is the full version of the chord you first played in a previous lesson.  The G on the top string could be played either with your 3rd or 4th finger. Use whichever is more comfortable for you.</p>
                     <p><img class="img-responsive" src="/static/lessons/12/g_major_chord.png" alt="G Major Chord"/></p>
+                    <h:ad/>
                     <h3>F Major</h3>
                     <p>F major introduces the technique of 'barring', which is pressing down more than one string with the same (usually the first) finger. It can take a bit of practice before you can get all of the notes in the chord to sound clearly. Experiment with the position and angle of your first finger.</p>
                     <p><img class="img-responsive" src="/static/lessons/12/f_major_chord.png" alt="F Major Chord"/></p>

@@ -18,6 +18,7 @@
                     <p>Now you know where F# is you can play a G major scale</p>
                     <p><img class="img-responsive" src="/static/lessons/7/g_major_scale.png" alt="G Major Scale"/></p>
                      <p>When you play a  major scale, it may sound familiar. What makes a major scale sound the way it does? Well first you'll notice that you started on G, and ended up on a higher note with the same name. The thing that makes it sound that way is all the intervals in between.</p>
+                    <h:ad/>
                      <h3>Tones and Semitones</h3>
                     <p>The intervals used in a major scale are tones and semitones. If you play a note and then play another one two frets higher the difference is a tone. One fret higher is a semitone.</p>
                     <p>The intervals in a major scale are: Tone, Tone, Semitone, Tone, Tone, Tone, Semitone.</p>

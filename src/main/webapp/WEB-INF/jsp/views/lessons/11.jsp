@@ -20,6 +20,7 @@
                     <p><img class="img-responsive" src="/static/lessons/11/f_on_sixth_string.png" alt="F on Sixth String"/></p>
                     <h3>G on the sixth string</h3>
                     <p><img class="img-responsive" src="/static/lessons/11/g_on_sixth_string.png" alt="G on Sixth String"/></p>
+                    <h:ad/>
                     <h2>Rests</h2>
                     <p>Sometimes when playing a piece of music, you want to leave some gaps between the notes. To show this in music notation we use 'rests'. </p>
                     <h3>A crotchet rest</h3>

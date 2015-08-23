@@ -14,6 +14,7 @@
                     <p>The following two pieces make us of some of the techniques that you have learnt so far.</p>
                     <h2>Putting it all together - 1</h2>
                     <p><img class="img-responsive" src="/static/lessons/14/putting_it_all_together_1.png" alt="Putting it all together - 1"/></p>
+                    <h:ad/>
                     <h2>Putting it all together - 2</h2>
                     <p><img class="img-responsive" src="/static/lessons/14/putting_it_all_together_2.png" alt="Putting it all together - 2"/></p>
 

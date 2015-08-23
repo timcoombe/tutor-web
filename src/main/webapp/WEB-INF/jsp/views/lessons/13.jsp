@@ -24,6 +24,7 @@
                     <p>To get the idea of how a shuffle is written, we'll need to learn about triplets. Triplets are written as below, with each triplet taking up one beat. Each note is written as a quaver, but actually only takes up one third of a beat. You can use the word 'evenly' to count a triplet, as in e-ven-ly, using one syllable for each note.</p>
                     <p><img class="img-responsive" src="/static/lessons/13/straight_triplets.png" alt="Straight Triplets"/></p>
                     <p>With a shuffle, the triplet looks slightly different, with the middle note missed out. The symbol in the middle is a rest, meaning don't play here. You can still use e-ven-ly to get the feel of the rhythm, but don't play on the middle 'ven' syllable.</p>
+                    <h:ad/>
                     <p><img class="img-responsive" src="/static/lessons/13/shuffle_triplets.png" alt="Shuffle Triplets"/></p>
                     <p>For our blues shuffle, we are going to be playing 2 notes at once. Let's try a very simple version first.  Use only down strokes when you play this.</p>
                     <p><img class="img-responsive" src="/static/lessons/13/simple_shuffle.png" alt="Simple Shuffle"/></p>

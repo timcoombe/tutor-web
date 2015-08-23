@@ -13,6 +13,7 @@
                     <h1 class="page-heading">C Major in Second Position</h1>
                     <p>Following on from the last lesson, here is another second position scale; C major.</p>
                     <p><img class="img-responsive" src="/static/lessons/16/c_major_second_position.png" alt="C major - second position"/></p>
+                    <h:ad/>
                     <p>Why bother learning this fingering of C major when you can play exactly the same notes in first position, as shown in an earlier lesson? Well firstly, we can move the pattern to other positions on the neck as shown in the last lesson. Also we can extend this scale to two octaves.</p>
                     <p><img class="img-responsive" src="/static/lessons/16/c_major_two_octaves.png" alt="C major - two octaves"/></p>
                     <p>When you get to the 8th note (the first octave), move your left hand to fifth position and play the same pattern as the A major scale in the previous lesson. On the way down the scale, do the reverse, move back into second position.</p>

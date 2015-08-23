@@ -24,6 +24,7 @@
                     <p>Each of the notes in the following exercises lasts for one beat, also known as a crotchet. A crotchet has the circle filled in, and a tail either going up or down.</p>
                     <p>If a piece of music you are reading has four beats in a bar (4/4 time signature),  and is made up of crotchets, you should count each bar <strong>1</strong>,2,3,4, <strong>1</strong>,2,3,4 with a slight emphasis on the first beat in each bar.</p>
                     <p><img class="img-responsive" src="/static/lessons/3/top_e.png" alt="Top E"/></p>
+                    <h:ad/>
                     <h3>Picking Exercise 1</h3>
                     <p>Try doing up and down strokes on the top E string. Start off very slowly and get used to turning your wrist. You will gradually be able to feel how accurate you need to be with the pick to consistently hit the string. Try getting louder and softer while you pick. Gradually try to get faster, but not too fast at this stage.</p>
                     <div class="embed-responsive embed-responsive-16by9">

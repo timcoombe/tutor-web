@@ -15,6 +15,7 @@
                     <p>When you play in second position, you just shift your left hand up one fret.</p>
                     <p>Let's try an A major scale in second position. Start with your first finger on the second fret of the third string.</p>
                     <p><img class="img-responsive" src="/static/lessons/15/a_major_second_position.png" alt="A major - second position"/></p>
+                    <h:ad/>
                     <p>The second note, B, is the same note as the open second string. Also the fifth note, E, is the same as the open E string.</p>
                     <p>We have also introduced a couple of new notes, C# on the second string and G# on the first string.
                         Have you spotted the similarity between this scale and the G major we played in a previous lesson. It's exactly the same pattern, but your first finger has taken over the role of the nut when you play open strings.</p>

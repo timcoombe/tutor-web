@@ -22,6 +22,7 @@
                             <li>Try other positions on the neck and see if you can work out what the chord is called.</li>
                         </ul>
                     </p>
+                    <h:ad/>
                     <p>To change this to a minor chord you need to barre across three strings. The root note stays the same.</p>
                     <p><img class="img-responsive" src="/static/lessons/19/f_major_chord.png" alt="F major chord"/></p>
                     <p>Again you can move this chord shape up and down the neck to get other minor chords.</p>

@@ -15,6 +15,7 @@
                     <p>In each case I have shown where the up and down strokes go, and where to leave a gap, using rests.</p>
                     <h3>Strumming pattern one</h3>
                     <p><img class="img-responsive" src="/static/lessons/17/down_down_up.png" alt="Strumming pattern 1"/></p>
+                    <h:ad/>
                     <h3>Strumming pattern two</h3>
                     <p><img class="img-responsive" src="/static/lessons/17/reggae.png" alt="Strumming pattern 2"/></p>
                     <h3>Strumming pattern three</h3>

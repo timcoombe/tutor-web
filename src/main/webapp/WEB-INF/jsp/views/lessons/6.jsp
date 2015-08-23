@@ -29,6 +29,7 @@
                         <li>Into to Hey Joe - Jimi Hendrix</li>
                         <li>Weather with you - Crowded House</li>
                     </ul>
+                    <h:ad/>
                     <h2>Introduction to chords</h2>
                     <h3>A simple chord</h3>
                     <p>When you play more than one note at the same time you are playing a chord. Try playing a down stroke on the top three strings only. Get used to just hitting those three strings. Now try up and down strokes just hitting the top three strings. You are playing a very simplified version of an E minor chord.</p>

@@ -75,7 +75,7 @@
           <hr class="featurette-divider">
 
     </div
-
+    <h:ad/>
 
    <h:footer/>
 </body>

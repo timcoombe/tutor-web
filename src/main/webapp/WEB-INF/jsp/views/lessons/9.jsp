@@ -14,6 +14,7 @@
                     <p>Using what you have learnt so far, here are some tunes on the top four strings.</p>
                     <h3>Tune 1</h3>
                     <p><img class="img-responsive" src="/static/lessons/9/top_four_strings_tune_one.png" alt="Top four strings - Tune 1"/></p>
+                    <h:ad/>
                     <h3>Tune 2</h3>
                     <p><img class="img-responsive" src="/static/lessons/9/top_four_strings_tune_two.png" alt="Top four strings - Tune 2"/></p>
                     <h3>Tune 3</h3>

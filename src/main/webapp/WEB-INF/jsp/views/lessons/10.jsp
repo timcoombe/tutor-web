@@ -17,6 +17,7 @@
                     <p><img class="img-responsive" src="/static/lessons/10/b_on_fifth_string.png" alt="B on Fifth String"/></p>
                     <h3>C on the fifth string</h3>
                     <p><img class="img-responsive" src="/static/lessons/10/c_on_fifth_string.png" alt="C on Fifth String"/></p>
+                    <h:ad/>
                     <h2>Scales using the fifth string</h2>
                     <h3>C Major Scale</h3>
                     <p><img class="img-responsive" src="/static/lessons/10/c_major.png" alt="C Major Scale"/></p>

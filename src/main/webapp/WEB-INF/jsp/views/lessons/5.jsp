@@ -19,6 +19,7 @@
                     <p>C to D: Tone</p>
                     <p>What do you think the interval is between D and E? Clue: Think about when you used relative tuning.</p>
                     <p>Of course there are other intervals. What about E to G, or B to E. We'll come on to that later when we talk about scales.</p>
+                    <h:ad/>
                     <h2>Time signatures</h2>
                     <p>Remember when we first described the stave. We mentioned that the top 4 in 4/4 means four beats in the bar, but glossed over the bottom 4 in 4/4. What this tells us is that each beat lasts for one crotchet.</p>
                     <p>A crotchet is also sometimes called a quarter note. So 4/4 = four quarter notes. </p>

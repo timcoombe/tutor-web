@@ -20,6 +20,7 @@
                     <p><img class="img-responsive" src="/static/lessons/4/second_string_c.png" alt="C on the second string"/></p>
                     <h3>D on the second string</h3>
                     <p><img class="img-responsive" src="/static/lessons/4/second_string_d.png" alt="D on the second string"/></p>
+                    <h:ad/>
                     <h3>Exercise 1 - Notes on the second string</h3>
                     <p><img class="img-responsive" src="/static/lessons/4/second_string_notes.png" alt="Second string notes"/></p>
                     <h3>The Minim</h3>

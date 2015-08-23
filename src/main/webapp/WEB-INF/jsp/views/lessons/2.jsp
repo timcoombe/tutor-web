@@ -33,7 +33,7 @@
                     <p>A tuning fork can be used to get one string in tune, after which you can use relative tuning to tune the rest of the strings. Holding the non-forked end of the tuning fork, bang it lightly against something hard. Don't do this against an expensive piece of furniture as you may mark it, the corner of an amplifier is good. If you then hold the fork up to your ear you will hear a note. You can then tune the appropriate open string to this note.</p>
 
                     <p><strong>The most common tuning fork is A, which you can use to tune your fifth string. Be aware though, that this A is a couple of octaves higher than your open string.  If you try to tune your string up this high it will probably snap!</strong></p>
-
+                    <h:ad/>
                     <h3>Relative tuning</h3>
 
                     <p>If you have the 6th String (E) in tune you can use this method to tune the rest of the strings.</p>

@@ -31,6 +31,7 @@ tension of the strings. The tighter the string the higher the note.</p>
                     <p>The bridge marks the other end of the vibrating part of the strings. The bridge has small screws
   which allow you to adjust the distance between it and the nut, making small changes to the
   intonation of the guitar so that it is in tune all the way up the neck.</p>
+                    <h:ad/>
                     <h3>Pickups</h3>
                     <p>The pickups convert the sound of the strings to an electronic signal which can be sent to an
   amplifier. There will usually be one, two or three pickups. The ones nearer the neck will give a

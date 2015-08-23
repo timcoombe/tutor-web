@@ -19,6 +19,7 @@
                     <p><img class="img-responsive" src="/static/lessons/8/e_on_fourth_string.png" alt="E on fourth string"/></p>
                     <h3>F on the fourth string</h3>
                     <p><img class="img-responsive" src="/static/lessons/8/f_on_fourth_string.png" alt="F on fourth string"/></p>
+                    <h:ad/>
                     <h3>The minor pentatonic scale</h3>
                     <p>Now you have learnt the first position notes on the top four strings, you can take a first look at a really useful scale, the Minor Pentatonic. This scale is great for making up riffs, improvising over minor and major keys and playing simple blues licks.</p>
                     <p><img class="img-responsive" src="/static/lessons/8/e_minor_pentatonic.png" alt="Minor Pentatonic Scale"/></p>

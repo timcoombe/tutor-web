@@ -15,6 +15,7 @@
                         ElectricGuitarTutor.com is a guide for the guitarist with different courses for different abilities.
                         The first course is for the complete beginner and starts with the basics. Each lesson progresses from the one before, although each lesson can also be used in isolation if you prefer.
                     </p>
+                    <h:ad/>
                     <h3>How to use the site</h3>
                     <p>
                         If you are a complete beginner, start from the first lesson and work gradually through each one in order. The first lessons are very simple, so you could tackle more than one at a time if you find that you are making quick progress.

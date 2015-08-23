@@ -14,6 +14,7 @@
                     <p>Remember the E minor pentatonic you learnt before? Let's extend that to all six strings.</p>
                     <p><img class="img-responsive" src="/static/lessons/18/e_minor_pentatonic.png" alt="E minor pentatonic"/></p>
                     <p>Here are some patterns based on E minor pentatonic.</p>
+                    <h:ad/>
                     <h2>E Minor Pentatonic - Pattern One</h2>
                     <p><img class="img-responsive" src="/static/lessons/18/e_minor_pentatonic_in_triplets.png" alt="E minor pentatonic triplets"/></p>
                     <h2>E Minor Pentatonic - Pattern Two</h2>
