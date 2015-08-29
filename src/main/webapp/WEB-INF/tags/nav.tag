@@ -22,8 +22,10 @@
                     <li><a href="/course">Beginners Course</a></li>
                   </ul>
                 </li>
+<%--
                 <li><a href="/videos">Videos</a></li>
-                <li><a href="/about">About</a></li>
+--%>
+                <li><a href="/contactus">Contact Us</a></li>
               </ul>
             </div>
           </div>

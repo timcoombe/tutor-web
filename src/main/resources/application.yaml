@@ -7,3 +7,6 @@ spring:
   view:
     prefix: /WEB-INF/jsp/
     suffix: .jsp
+  mvc:
+    favicon:
+      enabled: false
