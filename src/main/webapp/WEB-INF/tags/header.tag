@@ -1,7 +1,8 @@
+<%@ attribute name="title" required="true" %>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Electric Guitar Tutor</title>
+    <title>${title}</title>
     <link  rel="stylesheet" href="/static/css/bootstrap/css/spacelab.bootstrap.min.css">
     <link  rel="stylesheet" href="/static/css/styles.css">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />

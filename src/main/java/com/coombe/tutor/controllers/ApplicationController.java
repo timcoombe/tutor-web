@@ -10,6 +10,7 @@ import org.springframework.web.servlet.HandlerMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 @Controller
 public class ApplicationController {
@@ -145,5 +146,14 @@ public class ApplicationController {
 
         return mav;
 
+    }
+
+    @RequestMapping(value = {"/sitemap.xml"}, method = RequestMethod.GET)
+    public String sitemap( HttpServletResponse response){
+
+        response.setContentType("text/xml");
+        response.setHeader("Content-type","application/xhtml+xml");
+
+        return "/views/sitemap";
     }
 }

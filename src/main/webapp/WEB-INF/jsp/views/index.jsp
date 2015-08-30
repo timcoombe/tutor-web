@@ -1,7 +1,7 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="h"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
-<h:header/>
+<h:header title="Electric Guitar Tutor"/>
 <body>
     
     <h:nav/>
@@ -10,22 +10,22 @@
        ================================================== -->
        <div id="myCarousel" class="carousel slide" data-ride="carousel">
          <!-- Indicators -->
-         <ol class="carousel-indicators">
+ <%--        <ol class="carousel-indicators">
            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
            <li data-target="#myCarousel" data-slide-to="1"></li>
            <li data-target="#myCarousel" data-slide-to="2"></li>
          </ol>
-         <div class="carousel-inner" role="listbox">
+ --%>        <div class="carousel-inner" role="listbox">
            <div class="item active">
-              <img class="first-slide" src="/static/images/carousel-4.jpg" alt="First slide">
+              <img class="first-slide" src="/static/images/carousel-2.jpg" alt="First slide">
                <div class="container">
                <div class="carousel-caption">
                  <h1>Start playing guitar here!</h1>
-                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Beginners Course</a></p>
+                 <p><a class="btn btn-lg btn-primary" href="/course" role="button">Beginners Course</a></p>
                </div>
              </div>
            </div>
-           <div class="item">
+          <%-- <div class="item">
              <img class="second-slide" src="/static/images/carousel-2.jpg" alt="Second slide">
              <div class="container">
                <div class="carousel-caption">
@@ -44,7 +44,7 @@
                  <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
                </div>
              </div>
-           </div>
+           </div>--%>
          </div>
          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

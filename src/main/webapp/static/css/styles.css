@@ -73,3 +73,7 @@ article {
 .img-responsive{
     margin: auto;
 }
+
+.carousel-caption h1{
+    color: #fff;
+}

@@ -1,6 +1,6 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="h"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-<h:header/>
+<h:header title="Parts of the electric guitar"/>
 
 <body>
 
