@@ -77,3 +77,7 @@ article {
 .carousel-caption h1{
     color: #fff;
 }
+
+.fb-share-button{
+    float: right;
+}

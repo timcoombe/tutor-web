@@ -3,10 +3,9 @@
 <h:header title="Parts of the electric guitar"/>
 
 <body>
-
 <h:nav/>
- <article>
-        <div class="container">
+ <article
+    <div class="container">
             <h:lessonNav/>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
