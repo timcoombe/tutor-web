@@ -17,7 +17,7 @@
          </ol>
  --%>        <div class="carousel-inner" role="listbox">
            <div class="item active">
-              <img class="first-slide" src="/static/images/carousel-2.jpg" alt="First slide">
+              <img class="first-slide" src="/static/images/carousel-me.jpg" alt="First slide">
                <div class="container">
                <div class="carousel-caption">
                  <h1>Start playing guitar here!</h1>
@@ -71,10 +71,10 @@
                               You&#39;ll get the basics for using this most versatile of scales in any key.
               </p>
             </div>
-            <div class="col-md-5">
+   <%--         <div class="col-md-5">
               <img class="featurette-image img-responsive center-block" src="/static/images/feature-1.jpg" alt="Generic placeholder image">
             </div>
-          </div>
+--%>          </div>
         <div class="col-xs-9">
             <p class="lead"><a href="/lesson/18"><button class="btn btn-default">View Lesson</button></a></p>
         </div>

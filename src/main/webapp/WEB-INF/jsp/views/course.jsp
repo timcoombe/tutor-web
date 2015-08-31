@@ -16,7 +16,7 @@
            <!--/stories-->
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Parts of the electric guitar</h3>
@@ -30,7 +30,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Open Strings, Tuning and Music Notation</h3>
@@ -44,7 +44,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Getting Started</h3>
@@ -58,7 +58,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Second String</h3>
@@ -72,7 +72,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Theory Part One</h3>
@@ -86,7 +86,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Third String</h3>
@@ -100,7 +100,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Theory Part Two</h3>
@@ -114,7 +114,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Fourth String and E Minor Pentatonic</h3>
@@ -128,7 +128,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Tunes on the top four strings</h3>
@@ -142,7 +142,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Fifth String, C Major and A minor</h3>
@@ -156,7 +156,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Sixth String</h3>
@@ -170,7 +170,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>More Chords and Improvising in A Minor</h3>
@@ -184,7 +184,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>The Blues Shuffle</h3>
@@ -198,7 +198,7 @@
              <hr>
              <div class="row">
                  <div class="col-md-2 col-sm-3 text-center">
-                     <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                     <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
                  </div>
                  <div class="col-md-10 col-sm-9">
                      <h3>Putting it all together part one</h3>
@@ -212,7 +212,7 @@
              <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>Playing in Second Position</h3>
@@ -226,7 +226,7 @@
          <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>C Major in Second Position</h3>
@@ -240,7 +240,7 @@
          <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>More Rhythm Patterns</h3>
@@ -254,7 +254,7 @@
          <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>E minor pentatonic and more improvisation</h3>
@@ -268,7 +268,7 @@
          <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>Barre Chords</h3>
@@ -282,7 +282,7 @@
          <hr>
          <div class="row">
              <div class="col-md-2 col-sm-3 text-center">
-                 <a class="story-img" href="#"><img src="/static/images/guitar-link.jpg" style="width:100px;height:100px" class="img-circle"></a>
+                 <a class="story-img" href="#"><img src="/static/images/guitar-link-2.png" style="width:100px;height:100px" class="img-circle"></a>
              </div>
              <div class="col-md-10 col-sm-9">
                  <h3>Putting it all together - Part 2</h3>

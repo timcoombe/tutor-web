@@ -15,14 +15,14 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'spring-boot' 
-apply plugin: 'io.spring.dependency-management' 
+apply plugin: 'io.spring.dependency-management'
+apply plugin: 'war'
 
-jar {
-    baseName = 'tutor-web'
-    version = '0.0.1-SNAPSHOT'
+war {
+    baseName = 'tutorweb'
 }
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
 
 repositories {
     mavenCentral()
@@ -30,14 +30,18 @@ repositories {
 
 
 dependencies {
-    compile("org.springframework.boot:spring-boot-starter-data-jpa")
-    compile("org.springframework.boot:spring-boot-starter-web")
-    runtime("postgresql:postgresql:9.1-901-1.jdbc4")
+     compile("org.springframework.boot:spring-boot-starter-web")
 
     compile("org.apache.tomcat.embed:tomcat-embed-jasper")
     compile("javax.servlet:jstl")
 
     testCompile("org.springframework.boot:spring-boot-starter-test")
+
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+}
+
+configurations {
+    providedRuntime
 }
 
 
