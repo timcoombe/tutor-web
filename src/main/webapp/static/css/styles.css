@@ -47,6 +47,11 @@ body {
   z-index: 10;
 }
 
+.carousel-inner{
+    max-width: 970px;
+    margin: auto;
+}
+
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
